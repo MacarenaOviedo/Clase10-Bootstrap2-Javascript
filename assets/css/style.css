@@ -1,0 +1,38 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 14px;
+	color: #333;
+	font-family:Raleway;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+line-height: 1.2;
+
+}
+.thumbnail{
+	border: none;
+}
+.noticias h2{
+	font-size: 18px;
+}
+.noticias img{
+	width: 100%;
+}
+.thumbnail .caption{
+    padding: 15px 0 0 0;
+}
+.thumbnail a>img, .thumbnail>img{
+	margin-top: 20px;
+    margin-bottom: 5px;
+}
+.copyright{
+	border-top:1px solid #333;
+	padding: 15px 0 0 0
+}
+
+
+
+
