@@ -12,6 +12,21 @@ body{
 line-height: 1.2;
 
 }
+.spacer{
+	height: 15px;
+}
+/*Slider*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img{
+	width: 100%;
+}
+.carousel-inner .item .jumbotron{
+	background: rgba(0,0,0,0.2);
+}
+.popover-title, .popover-content{
+	color:#333;
+
+}
+/*Noticias*/
 .thumbnail{
 	border: none;
 }
